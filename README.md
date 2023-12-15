@@ -5,8 +5,8 @@
 I downloaded each file directly from the links below and saved them in a folder titled 'data_files' within the main directory:
 
 * [Opportunity Insights Social Capital Data by Zip Code](https://data.humdata.org/dataset/85ee8e10-0c66-4635-b997-79b6fad44c71/resource/ab878625-279b-4bef-a2b3-c132168d536e/download/social_capital_zip.csv)
-* [Zip code shape files](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2020&layergroup=ZIP+Code+Tabulation+Areas) Download 2020 National File
-* [HUD USPS Zip Code to county crosswalk](https://www.huduser.gov/apps/public/uspscrosswalk/home). Originally an Excel file, I added it to this repo as a csv.
+* [Zip code shape files](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2020&layergroup=ZIP+Code+Tabulation+Areas) (Downloaded the 2020 National File)
+* [HUD USPS Zip Code to county crosswalk](https://www.huduser.gov/apps/public/uspscrosswalk/home). Originally an Excel file, so I added it to this repo as a csv.
 
 ## Set up
 
