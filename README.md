@@ -14,7 +14,7 @@ Download this repository by running the following in the Terminal and then enter
 
 ```
 git clone https://github.com/sofiaaj/chloropleth_dummy.git
-cd make_cloropleth
+cd cloropleth_dummy
 ```
 
 Install all required packages:
